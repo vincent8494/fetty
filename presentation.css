@@ -1,0 +1,42 @@
+body
+{background-color:pink;
+    border: solid;
+    margin:300 px;
+    padding:100 px;
+    text-align:center;
+}
+h1{
+    text-transform:arial rounded;
+    font-size:40 px ;
+    text-decoration-color: brown;
+
+}
+button{
+    border-color: blue;
+    text-decoration-color: aqua;
+    
+    
+ 
+    padding: 15px 30px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
+p{
+    font-size:8 px;
+    padding-block: 20px;
+}
+li{
+    padding-block: 20px;
+    font-size:8 px;
+}
+h2{
+    text-transform:arial rounded;
+    font-size:40 px ;
+    text-decoration-color: brown;
+}
+textarea{
+    width:auto;
+    height:50px;
+}
